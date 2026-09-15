@@ -1,0 +1,27 @@
+{
+  "name": "الزئبق — مساحة الكاتب",
+  "short_name": "الزئبق",
+  "description": "مساحة كتابة خاصة لرواية الزئبق.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090a13",
+  "theme_color": "#090a13",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "./icon-192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
